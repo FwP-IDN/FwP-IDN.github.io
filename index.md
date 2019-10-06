@@ -30,6 +30,6 @@ Ini scoreboard saat kompetisi berakhir
 - Pas ngerjain sering emosi sendiri sambil nyalahin laptop sendiri karena gak bisa ngecompile program padahal gara aku ngetik `gcc` bukan `g++`
 - Jadinya aku dapet KFC dibawain KFC sama temen kosan yey
 - Kalau tim lain gaada yang bohong, timku peringkat 4 se-UI
-- Mayan bagus lah untuk ~~one~~ two man army.
+- Mayan bagus lah untuk ~~one man~~ two men army.
 - Semoga lolos final. Aamiin.
 - Udah ah mau boboq tapi blm ngantuk.
