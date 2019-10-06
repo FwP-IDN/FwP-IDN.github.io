@@ -20,9 +20,9 @@ Aku sempat WA sekali, kemudian aku debug, aku submit lagi AC. Kusuman submit B W
 
 Ini scoreboard saat kompetisi berakhir
 
-![alt text](https://github.com/FwP-IDN/FwP-IDN.github.io/blob/master/meong.jpg)
+![alt text](https://raw.githubusercontent.com/FwP-IDN/FwP-IDN.github.io/master/meong.jpg)
 
-![alt text](https://github.com/FwP-IDN/FwP-IDN.github.io/blob/master/mbek.jpg)
+![alt text](https://raw.githubusercontent.com/FwP-IDN/FwP-IDN.github.io/master/mbek.jpg)
 
 ## Behind The Scene
 
