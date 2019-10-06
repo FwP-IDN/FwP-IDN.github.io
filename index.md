@@ -27,7 +27,8 @@ Ini scoreboard saat kompetisi berakhir
 ## Behind The Scene
 
 - Sebenernya yang ngerjain di kampus dapat KFC, tapi aku mager(terutama kalau ketemu orang jago jadi minder ih... ehehehe) sehingga mending ngerjain di kosan aja
+- Pas ngerjain sering emosi sendiri sambil nyalahin laptop sendiri karena gak bisa ngecompile program padahal gara aku ngetik `gcc` bukan `g++`
 - Jadinya aku dapet KFC dibawain KFC sama temen kosan yey
-- Kalau tim lain gaada yang bohong, timku peringkat 5 se-UI
+- Kalau tim lain gaada yang bohong, timku peringkat 4 se-UI
 - Semoga lolos final. Aamiin.
 - Udah ah mau boboq tapi blm ngantuk.
